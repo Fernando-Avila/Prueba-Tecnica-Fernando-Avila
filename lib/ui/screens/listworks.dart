@@ -138,7 +138,7 @@ class _ListworksState extends State<Listworks> {
         },
         child: Stack(
           children: [
-            Container(
+          /* Container(
               margin: EdgeInsets.all(8),
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(15),
@@ -155,7 +155,7 @@ class _ListworksState extends State<Listworks> {
                     CircularProgressIndicator(value: downloadProgress.progress),
                 errorWidget: (context, url, error) => Icon(Icons.error),
               ),
-            ),
+            ),*/
             Container(
               margin: EdgeInsets.all(8),
               padding: EdgeInsets.all(9),
