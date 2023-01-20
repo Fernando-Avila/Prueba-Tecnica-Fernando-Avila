@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164461870064",
+    "project_id": "tareas-prueba-tecnica",
+    "storage_bucket": "tareas-prueba-tecnica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164461870064:android:a4f97247817a109d677b35",
+        "android_client_info": {
+          "package_name": "com.fernandoavila.prueba_tecnica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164461870064-hv3a2e13nk5tf3bg8c3mqopednjf2nmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDySoDdQZYVC9zyjLl5rfRTB5xFfChTBA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164461870064-hv3a2e13nk5tf3bg8c3mqopednjf2nmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
