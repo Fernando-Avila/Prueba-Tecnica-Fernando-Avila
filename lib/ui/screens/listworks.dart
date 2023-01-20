@@ -59,7 +59,7 @@ class _ListworksState extends State<Listworks> {
         ),
         t2(
             text:
-                'Desliza a la izquiera la tarea para compeltarla, o a la Derecha para eliminarla',
+                'Desliza a la izquiera la tarea para completarla, o a la Derecha para eliminarla',
             color: EstiloApp.colorwhite),
         Padding(
           padding: const EdgeInsets.only(top: 30),
